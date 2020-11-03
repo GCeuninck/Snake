@@ -1,0 +1,201 @@
+# depslib dependency file v1.0
+1515514623 source:d:\documents\projet b23\snake\functions.c
+	<time.h>
+
+1515770547 source:d:\documents\projet b23\snake\main.c
+	"constante.h"
+	"structure.h"
+
+1515570948 source:d:\documents\projet b23\snake\function.c
+	"snake.h"
+
+1515761224 d:\documents\projet b23\snake\snake.h
+	"constante.h"
+	"structure.h"
+
+1515570948 d:\documents\projet b23\snake\function.c
+	"snake.h"
+
+1515770576 source:d:\documents\projet b23\snake\plateau.c
+	"plateau.h"
+	"constante.h"
+
+1515769834 source:d:\documents\projet b23\snake\serpent.c
+	"snake.h"
+
+1515587576 source:c:\users\gceuninck\desktop\projet b23\snake\main.c
+	"snake.h"
+
+1515599323 c:\users\gceuninck\desktop\projet b23\snake\snake.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1515587576 source:c:\users\gceuninck\desktop\projet b23\snake\plateau.c
+	"snake.h"
+
+1515579371 source:c:\users\gceuninck\desktop\projet b23\snake\serpent.c
+	"snake.h"
+
+1515586418 source:c:\users\gceuninck\desktop\projet b23\snake\menu_principal.c
+	"snake.h"
+
+1515599325 source:c:\users\gceuninck\desktop\projet b23\snake\menu.c
+	"snake.h"
+
+1515769311 source:d:\documents\projet b23\snake\jeu_base.c
+	"constante.h"
+	"structure.h"
+
+1515770718 source:d:\documents\projet b23\snake\menu.c
+	"menu.h"
+
+1515768043 d:\documents\projet b23\snake\plateau.h
+	"constante.h"
+	"structure.h"
+
+1515763470 d:\documents\projet b23\snake\menu.h
+	"constante.h"
+	"structure.h"
+
+1515769185 d:\documents\projet b23\snake\constante.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	"snake.h"
+	"plateau.h"
+	"menu.h"
+	"temps.h"
+
+1515674486 d:\documents\projet b23\snake\stucture.h
+
+1515767175 d:\documents\projet b23\snake\structure.h
+
+1515770549 source:d:\documents\projet b23\snake\jeu_intermediaire.c
+	"constante.h"
+	"structure.h"
+
+1515680307 d:\documents\projet b23\snake\jeu_base.h
+	"constante.h"
+	"structure.h"
+
+1515748996 source:c:\users\gceuninck\desktop\snake\jeu_base.c
+	"constante.h"
+	"structure.h"
+
+1515763469 c:\users\gceuninck\desktop\snake\constante.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	"snake.h"
+	"plateau.h"
+	"menu.h"
+	"temps.h"
+
+1515761224 c:\users\gceuninck\desktop\snake\snake.h
+	"constante.h"
+	"structure.h"
+
+1515761210 c:\users\gceuninck\desktop\snake\structure.h
+
+1515761834 c:\users\gceuninck\desktop\snake\plateau.h
+	"constante.h"
+	"structure.h"
+
+1515763469 c:\users\gceuninck\desktop\snake\menu.h
+	"constante.h"
+	"structure.h"
+
+1515763469 c:\users\gceuninck\desktop\snake\temps.h
+	"constante.h"
+
+1515762606 source:c:\users\gceuninck\desktop\snake\jeu_intermediaire.c
+	"constante.h"
+	"structure.h"
+
+1515681966 source:c:\users\gceuninck\desktop\snake\main.c
+	"constante.h"
+	"structure.h"
+
+1515762632 source:c:\users\gceuninck\desktop\snake\plateau.c
+	"plateau.h"
+	"constante.h"
+
+1515763990 source:c:\users\gceuninck\desktop\snake\serpent.c
+	"snake.h"
+
+1515763469 source:c:\users\gceuninck\desktop\snake\menu.c
+	"menu.h"
+
+1515763507 source:c:\users\gceuninck\desktop\snake\temps.c
+	"temps.h"
+
+1515765421 d:\documents\projet b23\snake\temps.h
+	"constante.h"
+
+1515769455 source:d:\documents\projet b23\snake\temps.c
+	"constante.h"
+
+1515772911 source:c:\users\guillaume\desktop\snake\jeu_base.c
+	"constante.h"
+	"structure.h"
+
+1515772785 c:\users\guillaume\desktop\snake\constante.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	"snake.h"
+	"plateau.h"
+	"menu.h"
+	"temps.h"
+
+1515764824 c:\users\guillaume\desktop\snake\snake.h
+	"constante.h"
+	"structure.h"
+
+1515770775 c:\users\guillaume\desktop\snake\structure.h
+
+1515771643 c:\users\guillaume\desktop\snake\plateau.h
+	"constante.h"
+	"structure.h"
+
+1515767070 c:\users\guillaume\desktop\snake\menu.h
+	"constante.h"
+	"structure.h"
+
+1515769021 c:\users\guillaume\desktop\snake\temps.h
+	"constante.h"
+
+1515774149 source:c:\users\guillaume\desktop\snake\jeu_intermediaire.c
+	"constante.h"
+	"structure.h"
+
+1515774147 source:c:\users\guillaume\desktop\snake\main.c
+	"constante.h"
+	"structure.h"
+
+1515774977 source:c:\users\guillaume\desktop\snake\menu.c
+	"menu.h"
+
+1515774176 source:c:\users\guillaume\desktop\snake\plateau.c
+	"plateau.h"
+	"constante.h"
+
+1515773434 source:c:\users\guillaume\desktop\snake\serpent.c
+	"snake.h"
+
+1515773055 source:c:\users\guillaume\desktop\snake\temps.c
+	"constante.h"
+
